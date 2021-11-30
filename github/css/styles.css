@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: gray;
+}
+header {
+  width: 100%;
+  height: 10vh;
+  background-color: steelblue;
+  color: white;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+}
+main{
+    display: flex;
+   flex-flow: row nowrap;
+
+}
+.first {
+    width: 100%;
+    height: 70vh;
+  margin: 10px;
+  background-color: white;
+}
+.second{
+    width: 100%;
+
+    margin: 10px;
+background-color: white;
+}
+.input{
+    width: 100%;
+    margin: 10px;
+    background-color: white;
+   }
+.butom{
+    width: 18%;
+    height: 5vh;
+   margin: 2px;
+}
